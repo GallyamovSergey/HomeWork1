@@ -13,3 +13,5 @@ git merge branch name - слияние веток
 ## HomeWork3
 Создать конфликт
 
+## End Home Work
+Вроде что то получилось :D
