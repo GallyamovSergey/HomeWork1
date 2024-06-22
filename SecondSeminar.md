@@ -9,3 +9,5 @@ git merge branch name - слияние веток
 
 ## HomeWork
 Первая ветка
+## HomeWork2
+Ветка внутри первой ветки
